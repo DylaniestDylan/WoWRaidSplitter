@@ -1,0 +1,8 @@
+## Interface: 90207
+## Title: WoW Raid Splitter
+## Notes: Send party-specific raid warnings to individual parties within a raid
+## Author: YourName
+## Version: 0.1.0
+## SavedVariables: WoWRaidSplitterDB
+
+WoWRaidSplitter.lua
